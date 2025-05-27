@@ -3,7 +3,7 @@
 
 - 🎓 Pursuing B.Tech in AI & ML at K. Ramakrishnan College of Engineering (2022–2026)  
 - ☁️ Learning Azure (Cloud Certified)  
-- 🧠 Daily focus: DSA Practice and MEAN Stack Learning  
+- 🧠 Daily focus: DSA Practice  
 - 📫 Reach me at **gowthamhari2103@gmail.com**
 
 ---
